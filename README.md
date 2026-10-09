@@ -270,27 +270,6 @@ The interface is intended to help users:
 - Navigate between budgeting tools.
 - Understand the final simulation results.
 
-### Screenshots
-
-Add screenshots of your actual application here after uploading them to your repository.
-
-For example, if you save screenshots in a folder named `screenshots`, you can display them using:
-
-```markdown
-<img width="959" height="504" alt="Screenshot 2026-10-09 105715" src="https://github.com/user-attachments/assets/4ada08ab-ec07-40fe-b33d-25b2d3b5f664" />
-<img width="959" height="503" alt="Screenshot 2026-10-09 105746" src="https://github.com/user-attachments/assets/f0ebbd97-6836-4f94-a66a-21a8d443c85d" />
-<img width="959" height="502" alt="Screenshot 2026-10-09 105757" src="https://github.com/user-attachments/assets/00aaaeac-3505-47b9-9468-727f65d175b5" />
-<img width="953" height="505" alt="Screenshot 2026-10-09 105817" src="https://github.com/user-attachments/assets/6a55f768-6bfb-4f06-8944-4359cbaac4ae" />
-<img width="959" height="502" alt="Screenshot 2026-10-09 105808" src="https://github.com/user-attachments/assets/d7fc58fe-c556-42e4-a4fc-f2028b6d36cd" />
-<img width="959" height="506" alt="Screenshot 2026-10-09 105826" src="https://github.com/user-attachments/assets/1ec011df-e2df-41e7-bf8c-9a2a07b3ebe3" />
-<img width="959" height="503" alt="Screenshot 2026-10-09 105834" src="https://github.com/user-attachments/assets/ce71bfcd-6dd9-4d49-ac2a-fb93465ddad1" />
-<img width="959" height="502" alt="Screenshot 2026-10-09 105843" src="https://github.com/user-attachments/assets/7045927b-87dd-4e3d-be24-0e40544d9d7c" />
-<img width="958" height="504" alt="Screenshot 2026-10-09 105855" src="https://github.com/user-attachments/assets/f5bd8fcb-96cc-4818-abfa-c680016774f9" />
-
-```
-
-Replace the example filenames with the names of your actual screenshot files.
-
 ## 🚀 11. Installation and Execution
 
 ### Prerequisites
